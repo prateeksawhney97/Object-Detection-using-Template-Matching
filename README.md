@@ -16,3 +16,5 @@
 ![cutout6](https://user-images.githubusercontent.com/34116562/51802679-5f2e5980-2272-11e9-92e2-b53a9ce82978.jpg)
 
 ## Resultant Image using Template Matching:
+
+![result](https://user-images.githubusercontent.com/34116562/51803650-a110cd00-227d-11e9-86f4-c048f6ffb456.png)

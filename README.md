@@ -6,6 +6,8 @@
 
 ## Templates from sample image:
 
+##### Total six templates:
+
 ![cutout1](https://user-images.githubusercontent.com/34116562/51802669-4faf1080-2272-11e9-9425-74ae80a857b9.jpg)
 ![cutout2](https://user-images.githubusercontent.com/34116562/51802670-5178d400-2272-11e9-9143-fdc81ab60680.jpg)
 ![cutout3](https://user-images.githubusercontent.com/34116562/51802674-55a4f180-2272-11e9-824a-6ef0f100fc85.jpg)

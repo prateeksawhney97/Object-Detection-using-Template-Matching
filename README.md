@@ -2,6 +2,7 @@
 
 ### About using Template Matching for Object Detection:
 
+By using template matching we can only find very close matches, and changes in size or orientation of a car(or object) make it impossible to match with a template.
 
 ## Sample Image
 
